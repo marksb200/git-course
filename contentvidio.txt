@@ -1,5 +1,0 @@
-1)git init
-2)git status
-3)git add file.format (обратная история (git rm --cached <file>))
-4)git add(добавить все файлы разом)
-5)
